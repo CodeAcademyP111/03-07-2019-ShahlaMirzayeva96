@@ -1,0 +1,11 @@
+C:\Users\Code\Desktop\P116\2.Lab-15.05.2020-C#_Alqoritmler-ConsoleApp\Aghorithms\Aghorithms\bin\Debug\netcoreapp2.2\Aghorithms.deps.json
+C:\Users\Code\Desktop\P116\2.Lab-15.05.2020-C#_Alqoritmler-ConsoleApp\Aghorithms\Aghorithms\bin\Debug\netcoreapp2.2\Aghorithms.runtimeconfig.json
+C:\Users\Code\Desktop\P116\2.Lab-15.05.2020-C#_Alqoritmler-ConsoleApp\Aghorithms\Aghorithms\bin\Debug\netcoreapp2.2\Aghorithms.runtimeconfig.dev.json
+C:\Users\Code\Desktop\P116\2.Lab-15.05.2020-C#_Alqoritmler-ConsoleApp\Aghorithms\Aghorithms\bin\Debug\netcoreapp2.2\Aghorithms.dll
+C:\Users\Code\Desktop\P116\2.Lab-15.05.2020-C#_Alqoritmler-ConsoleApp\Aghorithms\Aghorithms\bin\Debug\netcoreapp2.2\Aghorithms.pdb
+C:\Users\Code\Desktop\P116\2.Lab-15.05.2020-C#_Alqoritmler-ConsoleApp\Aghorithms\Aghorithms\obj\Debug\netcoreapp2.2\Aghorithms.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\P116\2.Lab-15.05.2020-C#_Alqoritmler-ConsoleApp\Aghorithms\Aghorithms\obj\Debug\netcoreapp2.2\Aghorithms.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\P116\2.Lab-15.05.2020-C#_Alqoritmler-ConsoleApp\Aghorithms\Aghorithms\obj\Debug\netcoreapp2.2\Aghorithms.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\P116\2.Lab-15.05.2020-C#_Alqoritmler-ConsoleApp\Aghorithms\Aghorithms\obj\Debug\netcoreapp2.2\Aghorithms.AssemblyInfo.cs
+C:\Users\Code\Desktop\P116\2.Lab-15.05.2020-C#_Alqoritmler-ConsoleApp\Aghorithms\Aghorithms\obj\Debug\netcoreapp2.2\Aghorithms.dll
+C:\Users\Code\Desktop\P116\2.Lab-15.05.2020-C#_Alqoritmler-ConsoleApp\Aghorithms\Aghorithms\obj\Debug\netcoreapp2.2\Aghorithms.pdb
